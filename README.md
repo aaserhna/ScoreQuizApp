@@ -38,7 +38,7 @@ After attempting the questions, the user taps on the **SUBMIT** button to get hi
 
 ## Appreciation
 Many thanks to [Andela](https://andela.com/alcwithgoogle/), [Google Africa](https://www.udacity.com/google-africa-scholarships), and [Udacity](https://www.udacity.com/) for this (**Google Africa Scholarship) amazing experience.
-You can read about my Android journey as regards _ALCwithGoogle3_ [HERE](https://medium.com/androidbasics) or [HERE](https://medium.com/@aaserhna).
+You can read about my Android journey as regards _ALCwithGoogle3_ [Android Basics](https://medium.com/androidbasics) page on Medium or my [Profile page on Medium](https://medium.com/@aaserhna) as well.
 
 
 Thank you.
