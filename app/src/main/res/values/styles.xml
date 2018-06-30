@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- App branding color for the App bar. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <!-- Darker variant for the Status bar and contextual app bars. -->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>\
+        <!-- Theme UI controls like Checkboxes and Text fields. -->
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- Background color of buttons in the app -->
+        <item name="colorButtonNormal">@color/colorButtonNormal</item>
+    </style>
+
+    <style name="Theme">Theme</style>
+
+
+</resources>

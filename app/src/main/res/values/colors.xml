@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--   color for the app bar and other primary UI elements -->
+    <color name="colorPrimary">#F44336</color>
+    <!--   a darker variant of the primary color, used for
+           the status bar (on Android 5.0+) and contextual app bars -->
+    <color name="colorPrimaryDark">#D32F2F</color>
+    <!--   a secondary color for controls like checkboxes and text fields -->
+    <color name="colorAccent">#D32F2F</color>
+    <!--   a secondary color for button controls -->
+    <color name="colorButtonNormal">#F44336</color>
+    <!--   identifier for color Black -->
+    <color name="myBlack">#000</color>
+    <!--   identifier for color White -->
+    <color name="myWhite">#fff</color>
+    <!--   a secondary color for Question heading text -->
+    <color name="questionHeadings">#D32F2F</color>
+    <!--   a secondary color for the views serving as section lines between questions -->
+    <color name="sectionLines">#e8e8e8</color>
+</resources>

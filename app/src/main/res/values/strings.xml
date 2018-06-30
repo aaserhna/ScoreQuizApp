@@ -1,0 +1,120 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Title for the Application. [CHAR LIMIT=15] -->
+    <string name="app_name">Sports Quiz App</string>
+
+    <!-- Header text for Question One. [CHAR LIMIT=20] -->
+    <string name="q_one">question one</string>
+    <!-- Text for Question One. [CHAR LIMIT=NONE] -->
+    <string name="q_one_text">What colour jersey is worn by the winners of each stage of the Tour De France?</string>
+    <!-- Text for the Red radio button. [CHAR LIMIT=10] -->
+    <string name="q_one_option1">Red</string>
+    <!-- Text for the Yellow radio button. [CHAR LIMIT=10] -->
+    <string name="q_one_option2">Yellow</string>
+    <!-- Text for the Blue radio button. [CHAR LIMIT=10] -->
+    <string name="q_one_option3">Blue</string>
+
+    <!-- Header text for Question Two. [CHAR LIMIT=20] -->
+    <string name="q_two">question two</string>
+    <!-- Text for Question Two. [CHAR LIMIT=NONE] -->
+    <string name="q_two_text">In 2011, which country hosted a Formula 1 race for the first time?</string>
+    <!-- Answer Text for Question Two. [CHAR LIMIT=10] -->
+    <string name="india">INDIA</string>
+
+    <!-- Header text for the Question Three. [CHAR LIMIT=20] -->
+    <string name="q_three">question three</string>
+    <!-- Text for Question Three. [CHAR LIMIT=NONE] -->
+    <string name="q_three_text">Peter Beardsley is the only footballer to have played for Liverpool, Everton, Club-X and Club-Y. What are the names of Club-X and Club-Y?</string>
+    <!-- Text for the Manchester United checkbox. [CHAR LIMIT=20] -->
+    <string name="q_three_option1">Manchester United</string>
+    <!-- Text for the Manchester City checkbox. [CHAR LIMIT=20] -->
+    <string name="q_three_option2">Manchester City</string>
+    <!-- Text for the AC Milan checkbox. [CHAR LIMIT=10] -->
+    <string name="q_three_option3">AC Milan</string>
+
+    <!-- Header text for the Question Four. [CHAR LIMIT=20] -->
+    <string name="q_four">question four</string>
+    <!-- text for the Question Four. [CHAR LIMIT=NONE] -->
+    <string name="q_four_text">Name the country where you would find the Cresta Run?</string>
+    <!-- Text for the Costa Rica radio button. [CHAR LIMIT=15] -->
+    <string name="q_four_option1">Costa Rica</string>
+    <!-- Text for the France radio button. [CHAR LIMIT=10] -->
+    <string name="q_four_option2">France</string>
+    <!-- Text for the Switzerland radio button. [CHAR LIMIT=15] -->
+    <string name="q_four_option3">Switzerland</string>
+
+    <!-- Header text for the Question Five. [CHAR LIMIT=20] -->
+    <string name="q_five">question five</string>
+    <!-- text for the Question Five. [CHAR LIMIT=NONE] -->
+    <string name="q_five_text">How many times was the Men\'s Tennis Singles at Wimbledon won by Bjorn Borg?</string>
+    <!-- Text for the Four radio button. [CHAR LIMIT=10] -->
+    <string name="q_five_option1">Four</string>
+    <!-- Text for the Five radio button. [CHAR LIMIT=10] -->
+    <string name="q_five_option2">Five</string>
+    <!-- Text for the Six radio button. [CHAR LIMIT=10] -->
+    <string name="q_five_option3">Six</string>
+
+    <!-- Header text for the Question Six. [CHAR LIMIT=20] -->
+    <string name="q_six">question six</string>
+    <!-- text for the Question Six. [CHAR LIMIT=NONE] -->
+    <string name="q_six_text">Name the only heavyweight boxing champion to finish his career of 49 fights without ever having been defeated?</string>
+    <!-- Text for the Mike Tyson radio button. [CHAR LIMIT=10] -->
+    <string name="q_six_option1">Mike Tyson</string>
+    <!-- Text for the Rocky Marciano radio button. [CHAR LIMIT=10] -->
+    <string name="q_six_option2">Rocky Marciano</string>
+    <!-- Text for the Floyd Mayweather radio button. [CHAR LIMIT=10] -->
+    <string name="q_six_option3">Floyd Mayweather</string>
+
+    <!-- Header text for the Question Seven. [CHAR LIMIT=20] -->
+    <string name="q_seven">question seven</string>
+    <!-- text for the Question Seven. [CHAR LIMIT=NONE] -->
+    <string name="q_seven_text">Name the game played on a lawn called a \'crown green\'?</string>
+    <!-- Answer text for Question Seven. [CHAR LIMIT=10] -->
+    <string name="bowls">BOWLS</string>
+
+    <!-- Header text for the Question Eight. [CHAR LIMIT=20] -->
+    <string name="q_eight">question eight</string>
+    <!-- text for the Question Eight. [CHAR LIMIT=NONE] -->
+    <string name="q_eight_text">Which chess piece can only move diagonally?</string>
+    <!-- Text for the Castle radio button. [CHAR LIMIT=10] -->
+    <string name="q_eight_option1">A Castle</string>
+    <!-- Text for the Bishop radio button. [CHAR LIMIT=10] -->
+    <string name="q_eight_option2">A Bishop</string>
+    <!-- Text for the Queen radio button. [CHAR LIMIT=10] -->
+    <string name="q_eight_option3">The Queen</string>
+
+    <!-- Header text for the Question Nine. [CHAR LIMIT=20] -->
+    <string name="q_nine">question nine</string>
+    <!-- text for the Question Nine. [CHAR LIMIT=NONE] -->
+    <string name="q_nine_text">Which sport does Constantino Rocca play?</string>
+    <!-- Text for the Golf radio button. [CHAR LIMIT=10] -->
+    <string name="q_nine_option1">Golf</string>
+    <!-- Text for the Hockey radio button. [CHAR LIMIT=10] -->
+    <string name="q_nine_option2">Hockey</string>
+    <!-- Text for the Baseball radio button. [CHAR LIMIT=10] -->
+    <string name="q_nine_option3">Baseball</string>
+
+    <!-- Header text for the Question Ten. [CHAR LIMIT=20] -->
+    <string name="q_ten">question ten</string>
+    <!-- text for the Question Ten. [CHAR LIMIT=NONE] -->
+    <string name="q_ten_text">In football, who was nicknamed \'The Divine Ponytail\'?</string>
+    <!-- Text for the Roberto Baggio radio button. [CHAR LIMIT=15] -->
+    <string name="q_ten_option1">Roberto Baggio</string>
+    <!-- Text for the Zlatan Ibrahimovic radio button. [CHAR LIMIT=15] -->
+    <string name="q_ten_option2">Zlatan Ibrahimovic</string>
+    <!-- Text for the David De Gea radio button. [CHAR LIMIT=15] -->
+    <string name="q_ten_option3">David De Gea</string>
+
+    <string name="null_select"> </string>
+    <!-- Hint text for the EditText views. [CHAR LIMIT=20] -->
+    <string name="text_field_hint">enter answer here</string>
+    <!-- Text for the SUBMIT button. [CHAR LIMIT=10] -->
+    <string name="submit">submit</string>
+
+    <!-- User's total Score, shown in format "Remark! You scored 8 out of 10" [CHAR LIMIT=NONE] -->
+    <string name="total_score_0">Unbelievable! You scored <xliff:g example="0" id="score">%d</xliff:g> out of 10</string>
+    <string name="total_score_4">Nice try! You scored <xliff:g example="4" id="score">%d</xliff:g> out of 10</string>
+    <string name="total_score_7">Good Job! You scored <xliff:g example="7" id="score">%d</xliff:g> out of 10</string>
+    <string name="total_score_9">Excellent! You scored <xliff:g example="9" id="score">%d</xliff:g> out of 10</string>
+    <string name="total_score_10">Perfect! You scored <xliff:g example="10" id="score">%d</xliff:g> out of 10</string>
+
+</resources>
