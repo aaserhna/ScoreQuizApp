@@ -11,6 +11,8 @@
     <color name="colorButtonNormal">#F44336</color>
     <!--   identifier for color Black -->
     <color name="myBlack">#000</color>
+    <!--   identifier for color Gray -->
+    <color name="myGray">#aaa</color>
     <!--   identifier for color White -->
     <color name="myWhite">#fff</color>
     <!--   a secondary color for Question heading text -->

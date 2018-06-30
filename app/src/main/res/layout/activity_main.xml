@@ -9,12 +9,24 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
-        <LinearLayout
-            android:id="@+id/q1_layout"
+        <TextView
+            android:id="@+id/quiz_instruction"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
+            android:layout_marginTop="16dp"
+            android:fontFamily="sans-serif-medium"
+            android:text="@string/quiz_instruction"
+            android:textAlignment="center"
+            android:textColor="@color/myGray"
+            android:textSize="16sp" />
+
+        <LinearLayout
+            android:id="@+id/q1_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/quiz_instruction"
             android:layout_marginBottom="10dp"
             android:layout_marginTop="10dp"
             android:orientation="vertical"

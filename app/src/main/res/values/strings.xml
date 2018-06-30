@@ -1,6 +1,9 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Title for the Application. [CHAR LIMIT=15] -->
     <string name="app_name">Sports Quiz App</string>
+    <!-- Instruction text for the Quiz. [CHAR LIMIT=NONE] -->
+    <string name="quiz_instruction">Instruction: Attempt All Questions</string>
+
 
     <!-- Header text for Question One. [CHAR LIMIT=20] -->
     <string name="q_one">question one</string>
@@ -115,6 +118,6 @@
     <string name="total_score_4">Nice try! You scored <xliff:g example="4" id="score">%d</xliff:g> out of 10</string>
     <string name="total_score_7">Good Job! You scored <xliff:g example="7" id="score">%d</xliff:g> out of 10</string>
     <string name="total_score_9">Excellent! You scored <xliff:g example="9" id="score">%d</xliff:g> out of 10</string>
-    <string name="total_score_10">Perfect! You scored <xliff:g example="10" id="score">%d</xliff:g> out of 10</string>
+    <string name="total_score_10">Awesome! You scored <xliff:g example="10" id="score">%d</xliff:g> out of 10</string>
 
 </resources>
