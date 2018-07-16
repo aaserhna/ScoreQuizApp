@@ -1,4 +1,4 @@
-# ScoreQuizApp
+# SportsQuizApp
 > Code files for my "Sports Quiz" Android app; the Final project of the Udacity's Android Beginner course.
 
 
